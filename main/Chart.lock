@@ -1,0 +1,9 @@
+dependencies:
+- name: subdep1
+  repository: file://../subdep1
+  version: 0.1.0
+- name: subdep2
+  repository: file://../subdep2
+  version: 0.1.0
+digest: sha256:3321cb52693d4145e2ce6233f29eefca1fa3c712d5ce70b835ab2a331bb52dda
+generated: "2022-03-20T22:47:54.188131459+01:00"
