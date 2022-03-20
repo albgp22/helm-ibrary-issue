@@ -1,1 +1,1 @@
-dependency1: {{ include "lib.hardcodedString" . }}
+dependency2: {{ include "lib.hardcodedString" . }}
